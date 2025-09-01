@@ -9,7 +9,6 @@
     ```bash
     git clone <repo-url> && cd Giphy-Rspec-test
     ```
-    Or if already in the project, cd to its root.
 
 2. Install gems:
     ```bash
